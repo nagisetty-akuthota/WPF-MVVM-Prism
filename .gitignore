@@ -3,3 +3,18 @@
 ################################################################################
 
 /.vs
+/WPF-MVVM-Prism/.vs/WPF-MVVM-Prism/v16
+/WPF-MVVM-Prism/Modules/WPF-MVVM-Prism.Modules.ModuleName/obj
+/WPF-MVVM-Prism/Modules/WPF-MVVM-Prism.Modules.ModuleName/bin/Debug/netcoreapp3.1
+/WPF-MVVM-Prism/Modules/WPF-MVVM-Prism.Modules.ModuleName/WPFMVVMPrism.Modules.ModuleName.csproj.user
+/WPF-MVVM-Prism/Services/WPF-MVVM-Prism.Services/bin/Debug/netstandard2.1
+/WPF-MVVM-Prism/Services/WPF-MVVM-Prism.Services/obj
+/WPF-MVVM-Prism/Services/WPF-MVVM-Prism.Services.Interfaces/bin/Debug/netstandard2.1
+/WPF-MVVM-Prism/Services/WPF-MVVM-Prism.Services.Interfaces/obj
+/WPF-MVVM-Prism/Tests/WPF-MVVM-Prism.Modules.ModuleName.Tests/bin/Debug/netcoreapp3.1
+/WPF-MVVM-Prism/Tests/WPF-MVVM-Prism.Modules.ModuleName.Tests/obj
+/WPF-MVVM-Prism/WPF-MVVM-Prism/bin/Debug/netcoreapp3.1
+/WPF-MVVM-Prism/WPF-MVVM-Prism/obj
+/WPF-MVVM-Prism/WPF-MVVM-Prism/WPFMVVMPrism.csproj.user
+/WPF-MVVM-Prism/WPF-MVVM-Prism.Core/bin/Debug/netcoreapp3.1
+/WPF-MVVM-Prism/WPF-MVVM-Prism.Core/obj
